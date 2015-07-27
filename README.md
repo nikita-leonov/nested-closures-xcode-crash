@@ -29,7 +29,7 @@ i8* ()* @_TFF13NestableIssueU_FFT_T_T_auL_8callbackFT_T_
 LLVM ERROR: Broken module found, compilation aborted!
 ```
 
-The issue was raised cople of times by ReactiveCocoa and Quick users:
+The issue was raised couple of times by ReactiveCocoa and Quick users:
 * https://github.com/ReactiveCocoa/ReactiveCocoa/issues/2106
 * https://github.com/ReactiveCocoa/ReactiveCocoa/issues/2204
 * https://github.com/Quick/Quick/issues/354
