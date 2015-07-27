@@ -18,7 +18,9 @@ func nestable (nested: () -> Void) -> String {
 
 
 callbackable { callback in
+    //let callback = callback //Uncomment this line
     nestable {
         callback()
     }
+    //return //or this line to workaround an issue
 }
